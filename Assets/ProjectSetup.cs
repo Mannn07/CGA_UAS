@@ -8,7 +8,7 @@ public class ProjectSetup
     public static void CreateProjectStructure()
     {
         string rootPath = Application.dataPath;
-
+  //comment
         // Create main folders
         string[] folders = new string[]
         {
